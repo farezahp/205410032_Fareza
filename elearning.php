@@ -13,9 +13,9 @@
       </div>
       <nav>
         <ul>
-          <li><a href="index.html">Course</a></li>
-          <li><a href="benefit.html">Benefit</a></li>
-          <li><a href="elearning.html">E-Learning Class</a></li>
+          <li><a href="index.php">Course</a></li>
+          <li><a href="benefit.php">Benefit</a></li>
+          <li><a href="elearning.php">E-Learning Class</a></li>
         </ul>
       </nav>
     </header>
